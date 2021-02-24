@@ -1,4 +1,6 @@
 # Custom 7.3 Theme Based on Liferay's Classic Theme
+Based on the Custom 7.3 Theme (Formed Theme), with styling for standard demo purposes.
+* [here](https://github.com/lfrsales/73-formed-theme)
 
 A simple Liferay theme that allows for easy customization of the color scheme using Style Books.
 
